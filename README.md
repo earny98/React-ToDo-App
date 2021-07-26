@@ -1,4 +1,4 @@
-**Demo Link**: [https://earny98.github.io/React-ToDo-App/](url)
+**Live Link:** https://earny98.github.io/React-ToDo-App/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
